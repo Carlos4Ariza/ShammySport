@@ -1,0 +1,71 @@
+
+[
+    {
+        "_id": "1",
+        "nombre": "Jeans",
+        "descripccion": "Jeans licrados",
+        "categoria": ["hombres", "mujeres"],
+        "imageUrl": [
+            "../../../assets/images/jeans-1.jpg",
+            "../../../assets/images/jeans-2.jpg",
+            "../../../assets/images/jeans-3.jpg"
+        ],
+        "precio_venta": 70000,
+        "precio_regular": 120000,
+        "slug": "tipo-jeans"
+    },
+    {
+        "_id": "2",
+        "nombre": "Camisetas",
+        "descripccion": "mangacorta",
+        "categoria": ["hombres"],
+        "imageUrl": [
+            "../../../assets/images/camiseta-1.jpg",
+            "../../../assets/images/camiseta-2.jpg",
+            "../../../assets/images/camiseta-3.jpg",
+            "../../../assets/images/camiseta-4.jpg"
+
+        ],
+        "precio_venta": 40000,
+        "precio_regular": 60000,
+        "slug": "tipo-camisetas"
+    },
+    {
+        "_id": "3",
+        "nombre": "Chaquetas",
+        "descripccion": "Forradas",
+        "categoria": ["hombres", "mujeres"],
+        "imageUrl": [
+        ],
+        "precio_venta": 120000,
+        "precio_regular": 150000,
+        "slug": "tipo-chaquetas"
+    },
+    {
+        "_id": "4",
+        "nombre": "Vestidos",
+        "descripccion": "Cortos y largos",
+        "categoria": ["mujeres"],
+        "imageUrl": [
+            "../../../assets/images/vestidos-1.jpg"
+        ],
+        "precio_venta": 50000,
+        "precio_regular": 80000,
+        "slug": "tipo-vestidos"
+    },
+    {
+        "_id": "5",
+        "nombre": "Busos",
+        "descripccion": "Perchados",
+        "categoria": ["hombres", "mujeres"],
+        "imageUrl": [
+            "../../../assets/images/busos-1.jpg",
+            "../../../assets/images/busos-2.jpg",
+            "../../../assets/images/busos-3.jpg"
+        ],
+        "precio_venta": 60000,
+        "precio_regular": 90000,    
+        "slug": "tipo-busos"
+    }
+
+]
